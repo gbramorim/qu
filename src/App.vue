@@ -1,6 +1,5 @@
 <template>
   <div>
-    <h1>Planets</h1>
     <PlanetsList />
   </div>
 </template>
